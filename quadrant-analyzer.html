@@ -277,3 +277,41 @@
       });
       const activeBox = document.getElementById('q' + quadrant);
       activeBox.classList.add('active');
+      if (quadrant === 4) activeBox.classList.add('q4');
+document.getElementById('summaryText').innerHTML =
+<strong>Reach Ratio:</strong> ${reachRatio.toFixed(2)}% (${views.toLocaleString()} views / ${followers.toLocaleString()} followers) &bull;  +
+<strong>Relative to Baseline:</strong> ${relativePerf.toFixed(1)}% &bull;  +
+<strong>Classification:</strong> Quadrant ${quadrant};
+latestReceipt = {
+framework: "OvertPsyops Verification & Suppression Lab v1.0",
+timestamp_utc: new Date().toISOString(),
+platform: platform,
+post_url: postUrl,
+topic: topic,
+metrics: {
+followers: followers,
+views: views,
+reach_ratio_percent: Number(reachRatio.toFixed(4)),
+baseline_ratio_percent: baseline,
+relative_performance_percent: Number(relativePerf.toFixed(2))
+},
+logos_safeguard_passed: passedAll,
+assigned_quadrant: quadrant,
+screenshot_evidence: {
+filename: currentFileName,
+sha256: currentHash
+}
+};
+document.getElementById('results').style.display = 'block';
+}
+function downloadReceipt() {
+if (!latestReceipt) return;
+const blob = new Blob([JSON.stringify(latestReceipt, null, 2)], { type: 'application/json' });
+const url = URL.createObjectURL(blob);
+const a = document.createElement('a');
+const stamp = new Date().toISOString().replace(/[:.]/g, '-');
+a.href = url;
+a.download = receipt-q${latestReceipt.assigned_quadrant}-${stamp}.json;
+a.click();
+URL.revokeObjectURL(url);
+}
