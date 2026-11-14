@@ -45,5 +45,7 @@ All tools and records are open for public audit and distribution under the **GNU
 
 * **Overt Psyops AI & Book:** [https://overtpsyops.ai](https://overtpsyops.ai)
 * **Main Ministry & Archive:** [https://spirituallysmart.com](https://spirituallysmart.com)
-* **All Things Common (Economic Justice Repo):** [https://github.com](https://github.com](https://github.com/tlthe5th/overt-psyops-lab))
+* **All Things Common (Economic Justice Project):** [tlthe5th.github.io/all-things-common](https://github.io)
+* * **All Things Common (Economic Justice Repo):** [https://github.com/tlthe5th/overt-psyops-lab]
+
 * **Direct Contact:** `tlthe5th@pm.me`
