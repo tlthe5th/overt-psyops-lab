@@ -20,10 +20,10 @@ This laboratory implements the four-stage open-source methodology from the *Over
 ## 2. The Four-Quadrant Classification
 Every logged post is evaluated on two pre-committed axes defined in [`METHOD.md`](./METHOD.md): **Verification** (passing all five **λόγος** criteria) and **Relative Reach** (compared against the account's median 20-post baseline):
 
-* **Quadrant 1:** Unverified content + Normal reach ($\ge 50\%$ of baseline)
-* **Quadrant 2:** Unverified content + Low reach ($< 50\%$ of baseline)
-* **Quadrant 3:** Verified **ἀλήθεια** (Truth) + Normal reach ($\ge 50\%$ of baseline)
-* **Quadrant 4 (Documented Suppression Signature):** Verified **ἀλήθεια** (Truth) + Collapsed reach ($< 50\%$ of baseline)
+* **Quadrant 1:** Unverified content + Normal reach (≥ 50% of baseline)
+* **Quadrant 2:** Unverified content + Low reach (< 50% of baseline)
+* **Quadrant 3:** Verified **ἀλήθεια** (Truth) + Normal reach (≥ 50% of baseline)
+* **Quadrant 4 (Documented Suppression Signature):** Verified **ἀλήθεια** (Truth) + Collapsed reach (< 50% of baseline)
 
 ---
 
@@ -45,5 +45,5 @@ All tools and records are open for public audit and distribution under the **GNU
 
 * **Overt Psyops AI & Book:** [https://overtpsyops.ai](https://overtpsyops.ai)
 * **Main Ministry & Archive:** [https://spirituallysmart.com](https://spirituallysmart.com)
-* **All Things Common (Economic Justice Repo):** [https://github.com](https://github.com)
+* **All Things Common (Economic Justice Repo):** [https://github.com](https://github.com](https://github.com/tlthe5th/overt-psyops-lab))
 * **Direct Contact:** `tlthe5th@pm.me`
