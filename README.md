@@ -46,5 +46,5 @@ All tools and records are open for public audit and distribution under the **GNU
 * **Overt Psyops AI & Book:** [overtpsyops.ai](https://overtpsyops.ai)
 * **Main Ministry & Archive:** [spirituallysmart.com](https://spirituallysmart.com)
 * **All Things Common (Live Site):** [tlthe5th.github.io/all-things-common](https://tlthe5th.github.io/all-things-common)
-* **All Things Common (GitHub Repo):** [://github.com]([https://github.com](https://github.com/tlthe5th/all-things-common))
+* **All Things Common (GitHub Repo):** [github.com]([https://github.com](https://github.com/tlthe5th/all-things-common))
 * **Direct Contact:** `tlthe5th@pm.me`
