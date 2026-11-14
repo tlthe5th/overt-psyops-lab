@@ -43,8 +43,20 @@ This repository lays the groundwork for the civilian research laboratory outline
 ## Transparency & Links
 All tools and records are open for public audit and distribution under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
-* **Overt Psyops AI & Book:** [overtpsyops.ai](https://overtpsyops.ai)
-* **Main Ministry & Archive:** [spirituallysmart.com](https://spirituallysmart.com)
-* **All Things Common (Live Site):** [tlthe5th.github.io/all-things-common](https://tlthe5th.github.io/all-things-common)
-* **All Things Common (GitHub Repo):** [github.com](https://github.com/tlthe5th/all-things-common)
-* **Direct Contact:** `tlthe5th@pm.me`
+## Transparency & Links
+All tools and records are open for public audit and distribution under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+
+* **Overt Psyops AI:** [https://overtpsyops.ai](https://overtpsyops.ai)
+* **Overt Psyops Book (Free PDF):** [https://spirituallysmart.com/OvertPsyops.pdf](https://spirituallysmart.com/OvertPsyops.pdf)
+* **#OvertPsyopsBible (Part 1):** [https://spirituallysmart.com/OvertPsyopsBiblePart1.pdf](https://spirituallysmart.com/OvertPsyopsBiblePart1.pdf)
+* **Main Ministry & Archive:** [https://spirituallysmart.com](https://spirituallysmart.com)
+* **Twitter/X Archive:** [https://spirituallysmart.com/Twitter_X_Archive.htm](https://spirituallysmart.com/Twitter_X_Archive.htm)
+* **Blog Archive:** [https://spirituallysmart.com/blogger/index.php](https://spirituallysmart.com/blogger/index.php)
+* **Blog:** [https://spirituallysmart.blogspot.com](https://spirituallysmart.blogspot.com)
+* **Housing Jubilee:** [https://housingjubilee.ai](https://housingjubilee.ai)
+* **Housing Jubilee Book (PDF):** [https://spirituallysmart.com/housing-jubilee.pdf](https://spirituallysmart.com/housing-jubilee.pdf)
+* **All Things Common (Live Site):** [https://tlthe5th.github.io/all-things-common/](https://tlthe5th.github.io/all-things-common/)
+* **All Things Common (Repository):** [https://github.com/tlthe5th/all-things-common](https://github.com/tlthe5th/all-things-common)
+* **Overt Psyops Lab (This Repository):** [https://github.com/tlthe5th/overt-psyops-lab](https://github.com/tlthe5th/overt-psyops-lab)
+
+* **Direct Contact:** [tlthe5th@pm.me](mailto:tlthe5th@pm.me)
