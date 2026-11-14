@@ -43,9 +43,8 @@ This repository lays the groundwork for the civilian research laboratory outline
 ## Transparency & Links
 All tools and records are open for public audit and distribution under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
-* **Overt Psyops AI & Book:** [https://overtpsyops.ai](https://overtpsyops.ai)
-* **Main Ministry & Archive:** [https://spirituallysmart.com](https://spirituallysmart.com)
-* **All Things Common (Economic Justice Project):** [tlthe5th.github.io/all-things-common](https://github.io)
-* * **All Things Common (Economic Justice Repo):** [https://github.com/tlthe5th/overt-psyops-lab]
-
+* **Overt Psyops AI & Book:** [overtpsyops.ai](https://overtpsyops.ai)
+* **Main Ministry & Archive:** [spirituallysmart.com](https://spirituallysmart.com)
+* **All Things Common (Live Site):** [tlthe5th.github.io/all-things-common](https://tlthe5th.github.io/all-things-common)
+* **All Things Common (GitHub Repo):** [://github.com]([https://://github.com](https://github.com/tlthe5th/all-things-common))
 * **Direct Contact:** `tlthe5th@pm.me`
