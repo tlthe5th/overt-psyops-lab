@@ -8,6 +8,8 @@ A public, forkable research laboratory turning scattered screenshots into **stru
 
 🧮 **[Launch the #OvertPsyops Quadrant Analyzer](./quadrant-analyzer.html)** to calculate post reach ratios, score content against the 5-point **λόγος** (logic) safeguard, hash screenshots locally (`SHA-256`), and generate JSON receipts.
 
+![#OvertPsyops Quadrant Analyzer Preview](assets/quadrant-analyzer.png)
+
 ---
 
 ## 1. The Core Method
@@ -29,6 +31,7 @@ Every logged post is evaluated on two pre-committed axes defined in [`METHOD.md`
 
 ## Repository Map
 * [`/quadrant-analyzer.html`](./quadrant-analyzer.html) — Interactive Quadrant plotter, local `SHA-256` screenshot hasher, and JSON receipt generator.
+* [`/assets/quadrant-analyzer.png`](./assets/quadrant-analyzer.png) — Quadrant Analyzer UI preview screenshot.
 * [`/METHOD.md`](./METHOD.md) — Pre-committed mathematical formulas, baseline rules, and the 5-point **λόγος** (logic) safeguard.
 * [`/ledger`](./ledger) — Public archive of timestamped JSON suppression receipts and `.ots` proofs.
 * [`/lxx-audit`](./lxx-audit) — Side-by-side **Septuagint (LXX)** and Greek New Testament textual verification records.
@@ -39,9 +42,6 @@ This repository lays the groundwork for the civilian research laboratory outline
 * **Cognitive & Social Psychology** (information containment and conformity analysis)
 * **Software Development** (automated ledger verification and OpenTimestamps integration)
 * **Biblical Greek & Textual Verification** (LXX and Greek New Testament manuscript audits)
-
-## Transparency & Links
-All tools and records are open for public audit and distribution under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
 ## Transparency & Links
 All tools and records are open for public audit and distribution under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
